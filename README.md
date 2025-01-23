@@ -1,3 +1,8 @@
+Fork of https://github.com/flyingrhinonz/nccm 
+
+Goal of adding tmux support, macOS support (logging errors like crazy currently), and improving the YAML configuration to not pop dictionary keys for global settings but instead put all connections nested under a key. Allow for defaults at the global level such as setting username for every connection, and then allowing override per connection. 
+
+Would be nice, add SCP file copy feature, much like that used for Moba. 
 
 NCurses ssh Connection Manager (nccm)
 =====================================
